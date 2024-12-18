@@ -236,8 +236,6 @@ namespace Inventory.Controllers
         }
         #endregion
 
-        
-
         [HttpPost("UpdateRequisitionDetails")]
         public async Task<IActionResult> UpdateRequisitionDetails([FromBody] Ims_Requisition_Model _bodyParams)
         {
