@@ -1,0 +1,26 @@
+/home/debankur/MyWorkSpace/IMS-Backend/Common_Helper/bin/Debug/net8.0/Common_Helper.deps.json
+/home/debankur/MyWorkSpace/IMS-Backend/Common_Helper/bin/Debug/net8.0/Common_Helper.dll
+/home/debankur/MyWorkSpace/IMS-Backend/Common_Helper/bin/Debug/net8.0/Common_Helper.pdb
+/home/debankur/MyWorkSpace/IMS-Backend/Common_Helper/obj/Debug/net8.0/Common_Helper.csproj.AssemblyReference.cache
+/home/debankur/MyWorkSpace/IMS-Backend/Common_Helper/obj/Debug/net8.0/Common_Helper.GeneratedMSBuildEditorConfig.editorconfig
+/home/debankur/MyWorkSpace/IMS-Backend/Common_Helper/obj/Debug/net8.0/Common_Helper.AssemblyInfoInputs.cache
+/home/debankur/MyWorkSpace/IMS-Backend/Common_Helper/obj/Debug/net8.0/Common_Helper.AssemblyInfo.cs
+/home/debankur/MyWorkSpace/IMS-Backend/Common_Helper/obj/Debug/net8.0/Common_Helper.csproj.CoreCompileInputs.cache
+/home/debankur/MyWorkSpace/IMS-Backend/Common_Helper/obj/Debug/net8.0/Common_Helper.sourcelink.json
+/home/debankur/MyWorkSpace/IMS-Backend/Common_Helper/obj/Debug/net8.0/Common_Helper.dll
+/home/debankur/MyWorkSpace/IMS-Backend/Common_Helper/obj/Debug/net8.0/refint/Common_Helper.dll
+/home/debankur/MyWorkSpace/IMS-Backend/Common_Helper/obj/Debug/net8.0/Common_Helper.pdb
+/home/debankur/MyWorkSpace/IMS-Backend/Common_Helper/obj/Debug/net8.0/ref/Common_Helper.dll
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\bin\Debug\net8.0\Common_Helper.deps.json
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\bin\Debug\net8.0\Common_Helper.dll
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\bin\Debug\net8.0\Common_Helper.pdb
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\obj\Debug\net8.0\Common_Helper.csproj.AssemblyReference.cache
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\obj\Debug\net8.0\Common_Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\obj\Debug\net8.0\Common_Helper.AssemblyInfoInputs.cache
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\obj\Debug\net8.0\Common_Helper.AssemblyInfo.cs
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\obj\Debug\net8.0\Common_Helper.csproj.CoreCompileInputs.cache
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\obj\Debug\net8.0\Common_Helper.sourcelink.json
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\obj\Debug\net8.0\Common_Helper.dll
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\obj\Debug\net8.0\refint\Common_Helper.dll
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\obj\Debug\net8.0\Common_Helper.pdb
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\obj\Debug\net8.0\ref\Common_Helper.dll

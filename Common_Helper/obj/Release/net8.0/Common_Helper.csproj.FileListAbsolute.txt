@@ -1,0 +1,13 @@
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\bin\Release\net8.0\Common_Helper.deps.json
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\bin\Release\net8.0\Common_Helper.dll
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\bin\Release\net8.0\Common_Helper.pdb
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\obj\Release\net8.0\Common_Helper.csproj.AssemblyReference.cache
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\obj\Release\net8.0\Common_Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\obj\Release\net8.0\Common_Helper.AssemblyInfoInputs.cache
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\obj\Release\net8.0\Common_Helper.AssemblyInfo.cs
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\obj\Release\net8.0\Common_Helper.csproj.CoreCompileInputs.cache
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\obj\Release\net8.0\Common_Helper.sourcelink.json
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\obj\Release\net8.0\Common_Helper.dll
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\obj\Release\net8.0\refint\Common_Helper.dll
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\obj\Release\net8.0\Common_Helper.pdb
+D:\DOT NET API PROJECT FOR BIKASH DA\NEW API PROJECT\IMS-Backend\Common_Helper\obj\Release\net8.0\ref\Common_Helper.dll
